@@ -11,7 +11,6 @@ BUILTIN_ATTRS = {
     'exc_text',
     'filename',
     'funcName',
-    'levelname',
     'levelno',
     'lineno',
     'module',
